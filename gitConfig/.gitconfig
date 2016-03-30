@@ -1,0 +1,7 @@
+[user]
+	name = sigon
+	email = sigon426@users.noreply.github.com
+[credential]
+	helper = cache --timeout=28800
+[alias]
+	lg = log --pretty=format:\"%C(bold blue)%h%C(reset) - %C(bold white)%an%C(reset), %C(bold green)%ar%C(reset) : %s %C(bold yellow)%d%C(reset)\"
